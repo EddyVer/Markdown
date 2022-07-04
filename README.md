@@ -1,7 +1,7 @@
 # Eddy
 *Apprendre un peu plus chaque jour*
 
-![Moi](https://user-images.githubusercontent.com/108331530/177169774-c3e99648-54c5-4f16-beca-658328e985db.jpg)
+![Moi](https://user-images.githubusercontent.com/108331530/177169774-c3e99648-54c5-4f16-beca-658328e985db.jpg)<img src="drawing.jpg" alt="drawing" style="width:200px;"/>
 
 ###### je n'ai jamais grand chose a dire.
 
