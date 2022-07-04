@@ -16,6 +16,6 @@ test </li>
 **test add image**
 <html>
 <head>
-[![bateau](/download/Centaurus Charter.jpg)]
+[![bateau](https://wettoncraft.com/fr/blog/quel-bateau-moteur-pour-quel-programme-de-navigation)]
 </head>
 </html>²
