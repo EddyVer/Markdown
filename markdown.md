@@ -12,5 +12,10 @@ test </li>
 <title> test title </title>
 </head>
 </html> 
+
 **test add image**
-![bateau](/assets/images/Centaurus Charter.jpg)
+<html>
+<head>
+![bateau](/download/Centaurus Charter.jpg)
+</head>
+</html>²
