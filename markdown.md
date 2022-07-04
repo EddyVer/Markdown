@@ -33,22 +33,22 @@ test </li>
 |test|test2|test3|
 |-|-|-|
 |rep|rep2|rep3|
-premiere rep|deuxieme rep|troisieme rep|
+|premiere rep|deuxieme rep|troisieme rep|
  
 
 # Eddy
 *Apprendre un peu plus chaque jour*
 
-![photo](./Moi.jpg)
+![photo](Moi.jpg)
 
 ###### j'y reflechis encore.
 
-| info | reponse |
-|-|-|-|
-| birthday | 29.08 |
-| Genre | Homme |
-| Favorote color | Vert |
-| Favorti food | pas encore trouver |
+|info|reponse|
+|-|-|
+|birthday|29.08|
+|Genre|Homme|
+|Favorote color|Vert|
+|Favorti food|pas encore trouver|
 
 
 
