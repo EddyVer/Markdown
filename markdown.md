@@ -14,8 +14,5 @@ test </li>
 </html> 
 
 **test add image**
-<html>
-<head>
-[![bateau](https://wettoncraft.com/fr/blog/quel-bateau-moteur-pour-quel-programme-de-navigation)]
-</head>
-</html>²
+
+![bateau](https://wettoncraft.com/sites/default/files/styles/project__1200x900_/public/2022-01/quel-bateau-a-moteur-pour-quel-programme-de-navigation.jpg?itok=0Zqit_LX)
