@@ -39,7 +39,7 @@ test </li>
 # Eddy
 *Apprendre un peu plus chaque jour*
 
-![photo](/pictures/assets/Moi.jpg)
+![photo](/home/melonde-zeus/pictures/assets/Moi.jpg)
 
 ###### j'y reflechis encore.
 
@@ -49,6 +49,10 @@ test </li>
 |Genre|Homme|
 |Favorote color|Vert|
 |Favorti food|pas encore trouver|
+
+######Ananas sur la pizza:
+-[]Yes
+-[x]Non
 
 ###### Hobbies:
 	-apprendre l'anglais et le japonais
