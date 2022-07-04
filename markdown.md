@@ -39,7 +39,7 @@ test </li>
 # Eddy
 *Apprendre un peu plus chaque jour*
 
-![photo](/home/melonde-zeus/pictures/assets/Moi.jpg)
+![photo](./pictures/assets/Moi.jpg)
 
 ###### j'y reflechis encore.
 
@@ -47,15 +47,16 @@ test </li>
 |-|-|
 |birthday|29.08|
 |Genre|Homme|
-|Favorote color|Vert|
-|Favorti food|pas encore trouver|
-|Ananas sur la pizza|- [ ] Yes - [x] Non|
+|Favorit color|Vert|
+|Favorit food|pas encore trouver|
+
 
 ###### Hobbies:
-	-apprendre l'anglais et le japonais
 	-faire de la moto
 
+###### funny story
+désole j'ai pas d'histoire drole a raconté ^^
 
 
-<< ![Précénde](https://github.com/VVKDO98/challenge-markdown)||Eddy|| ![Next](https://github.com/selim9106/challenge-markdown#readme)
+<< ![Précénde](https://github.com/VVKDO98/challenge-markdown)||Eddy|| ![Next](https://github.com/selim9106/challenge-markdown#readme) >>
 	 
