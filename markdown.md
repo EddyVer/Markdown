@@ -39,7 +39,7 @@ test </li>
 # Eddy
 *Apprendre un peu plus chaque jour*
 
-![photo]('/home/melonde-zeus/Pictures/Moi.jpg' )
+![photo](/home/melonde-zeus/Pictures/Moi.jpg)
 
 ###### j'y reflechis encore.
 
