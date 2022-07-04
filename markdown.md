@@ -43,11 +43,11 @@ premiere rep|deuxieme rep|troisieme rep|
 
 ###### j'y reflechis encore.
 
-|info|reponse|
-|birthday|29.08|
-|Genre|Homme|
-|Favorote color|Vert|
-|Favorti food|pas encore trouver|
+| info | reponse |
+| birthday | 29.08 |
+| Genre | Homme |
+| Favorote color | Vert |
+| Favorti food | pas encore trouver |
 
 
 
