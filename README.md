@@ -1,9 +1,9 @@
 # Eddy
 *Apprendre un peu plus chaque jour*
 
-![photo](file:///home/melonde-zeus/Pictures/Moi.jpg)
+![Moi](https://user-images.githubusercontent.com/108331530/177169774-c3e99648-54c5-4f16-beca-658328e985db.jpg)
 
-###### j'y reflechis encore.
+###### je n'ai jamais grand chose a dire.
 
 |info|reponse|
 |-|-|
