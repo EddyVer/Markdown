@@ -26,4 +26,6 @@ test </li>
 
 >test decla ligne + test add un bouton
 
-	>  - recest 
+	>  - request
+- after check command
+ 
