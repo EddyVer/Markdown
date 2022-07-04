@@ -39,7 +39,7 @@ test </li>
 # Eddy
 *Apprendre un peu plus chaque jour*
 
-![photo](/Home/melonde-zeus/Pictures/assets/Moi.jpg)
+![photo](/home/melonde-zeus/Pictures/Moi.jpg)
 
 ###### j'y reflechis encore.
 
@@ -50,6 +50,9 @@ test </li>
 |Favorit color|Vert|
 |Favorit food|pas encore trouver|
 
+###### Quand peut-on compter sur moi 
+
+Tous le temps, mais il se peut que je n'ai pas la solution '-'
 
 ###### Hobbies:
 	-faire de la moto
