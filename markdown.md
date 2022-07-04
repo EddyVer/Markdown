@@ -39,7 +39,7 @@ premiere rep|deuxieme rep|troisieme rep|
 # Eddy
 *Apprendre un peu plus chaque jour*
 
-![photo](/home/melonde-zeus/Downloads/20220704_141534.jpg)
+![photo](/home/Downloads/20220704_141534.jpg)
 ######
 
 
