@@ -1,7 +1,9 @@
 # Eddy
-*Apprendre un peu plus chaque jour*
+*Apprendre un p
+eu plus chaque jour*
 
-![Moi](https://user-images.githubusercontent.com/108331530/177170579-7c9e4742-224a-45ef-8366-fd29c3cee3d5.png)
+![Moi](https://user-images.githubusercontent.com/108331530/177170755-5eb64dee-b6b2-4bbc-8310-26754624117d.png)
+
 
 
 ###### je n'ai jamais grand chose a dire.
