@@ -25,6 +25,12 @@ test </li>
 >test decla ligne + test add un bouton
 <html>
 <template>
-<button> click pour lien </button>
+<div>
+<button click@="testclick"> click pour lien </button>
+</div>
 </template>
+<script>
+
+</script>
+
 
