@@ -24,4 +24,4 @@ test </li>
 
 >test decla ligne + test add un bouton
 
-<button @click="goLien">click pour lien</button>
+<button @click> click pour lien</button>
