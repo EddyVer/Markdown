@@ -17,8 +17,8 @@ test </li>
 ![bateau](https://wettoncraft.com/sites/default/files/styles/project__1200x900_/public/2022-01/quel-bateau-a-moteur-pour-quel-programme-de-navigation.jpg?itok=0Zqit_LX)
 
 1. add gif
-	>-gif 1.2
-	>-gif 1.3
+	> - gif 1.2
+	> - gif 1.3
 2. add gif
 1. add gif
 
