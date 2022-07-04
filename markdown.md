@@ -39,7 +39,7 @@ test </li>
 # Eddy
 *Apprendre un peu plus chaque jour*
 
-![photo](Moi.jpg)
+![photo](/pictures/assets/Moi.jpg)
 
 ###### j'y reflechis encore.
 
@@ -50,5 +50,8 @@ test </li>
 |Favorote color|Vert|
 |Favorti food|pas encore trouver|
 
+###### Hobbies:
+	-apprendre l'anglais et le japonais
+	-faire de la moto
 
-
+ 
