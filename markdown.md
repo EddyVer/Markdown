@@ -16,6 +16,6 @@ test </li>
 **test add image**
 <html>
 <head>
-![bateau](/download/Centaurus Charter.jpg)
+[![bateau](/download/Centaurus Charter.jpg)]
 </head>
 </html>²
