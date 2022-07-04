@@ -50,9 +50,9 @@ test </li>
 |Favorote color|Vert|
 |Favorti food|pas encore trouver|
 
-######Ananas sur la pizza:
--[]Yes
--[x]Non
+###### Ananas sur la pizza:
+- [] Yes
+- [x] Non
 
 ###### Hobbies:
 	-apprendre l'anglais et le japonais
