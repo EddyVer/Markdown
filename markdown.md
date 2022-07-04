@@ -39,8 +39,15 @@ premiere rep|deuxieme rep|troisieme rep|
 # Eddy
 *Apprendre un peu plus chaque jour*
 
-![photo](/home/20220704_141534.jpg)
+![photo](/home/Moi.jpg)
 
-######j'y reflechis encore.
+###### j'y reflechis encore.
+
+|info|reponse|
+|birthday|29.08|
+|Genre|Homme|
+|Favorote color|Vert|
+|Favorti food|pas encore trouver|
+
 
 
